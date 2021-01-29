@@ -1,0 +1,3 @@
+ DROP DATABASE IF EXISTS slither_db;
+ 
+ CREATE DATABASE slither_db;
